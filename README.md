@@ -5,9 +5,10 @@
 ```text
 ├── ERCR.ipynb                   # Main notebook implementing the proposed ERCR method
 ├── baselines                    # Baseline methods
-├── triples.csv                  # Dataset in triple format for KG embeddings
-├── Irish_populated_places.csv   # Dataset in Tabular format
-├── ground_truth.csv             # Ground truth for evaluation
+├── IE.zip                       # Ireland dataset
+├── NI.zip                       # Northern Ireland dataset
+├── SCO.zip                      # Scotland dataset
+├── WAL.zip                      # Wales dataset
 ├── requirements.txt             # Python dependencies
 └── README.md                    # Project overview and instructions
 ```
